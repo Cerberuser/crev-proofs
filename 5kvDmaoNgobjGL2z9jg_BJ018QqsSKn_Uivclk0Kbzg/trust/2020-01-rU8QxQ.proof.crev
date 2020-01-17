@@ -1,0 +1,38 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-17T12:50:08.088631191+03:00"
+from:
+  id-type: crev
+  id: 5kvDmaoNgobjGL2z9jg_BJ018QqsSKn_Uivclk0Kbzg
+  url: "https://github.com/Cerberuser/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  crev author; could be "high", in fact
+----- SIGN CREV PROOF -----
+Zm03vDoznv9dpC9577MszU30Fg2845Isro-nGKzsePgt9kvHuLlFjr-qrcjvctTdYLxKlTqhPyluQuHlZU3-Ag
+----- END CREV PROOF -----
+
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-17T12:52:44.925643021+03:00"
+from:
+  id-type: crev
+  id: 5kvDmaoNgobjGL2z9jg_BJ018QqsSKn_Uivclk0Kbzg
+  url: "https://github.com/Cerberuser/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  Creator of cargo-crev, so could be "high", but let it be this way for now
+----- SIGN CREV PROOF -----
+k6An7O_R6rNUrJPRDCyFLXGHbxLrBmKFrSqoj-o8bj3_Ayn_QygvmCLEuASG4TvTrBEy7BqFJVFsrz2qPkBQBA
+----- END CREV PROOF -----
+
