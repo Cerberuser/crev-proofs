@@ -1,0 +1,21 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-05-15T00:55:41.811995212+07:00"
+from:
+  id-type: crev
+  id: 5kvDmaoNgobjGL2z9jg_BJ018QqsSKn_Uivclk0Kbzg
+  url: "https://github.com/Cerberuser/crev-proofs"
+ids:
+  - id-type: crev
+    id: 24YKeuThJDNFSlJyxcl5diSZcKcRbh-0zXM0YxTOFJw
+    url: "https://github.com/LucianoBestia/crev-proofs"
+trust: distrust
+comment: |-
+  I think we shouldn't blindly trust any crate, even from the language
+  developers. "strong" reviews without any thoroughness and/or understanding
+  can endanger the whole web of trust.
+----- SIGN CREV PROOF -----
+aGZ14SY43Nm7W6UexhbUsWlzbJIgNf-0zIe2qjrOk_Kg94iXytFcHMNxfYaEAjaP-UITQkYCVwzb4TZ0BgGpAg
+----- END CREV PROOF -----
+
