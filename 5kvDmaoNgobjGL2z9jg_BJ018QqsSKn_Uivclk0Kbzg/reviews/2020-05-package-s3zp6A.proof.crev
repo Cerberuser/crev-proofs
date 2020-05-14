@@ -1,0 +1,26 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-05-15T00:40:55.831843559+07:00"
+from:
+  id-type: crev
+  id: 5kvDmaoNgobjGL2z9jg_BJ018QqsSKn_Uivclk0Kbzg
+  url: "https://github.com/Cerberuser/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: rand_core
+  version: 0.5.1
+  revision: d877ed528248b52d947e0484364a4e1ae59ca502
+  digest: 6uFeAiARfp5LiRaAZTTMbuHkUjUaBmsFCnHZ5_-kdhQ
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: |-
+  A de-facto standard crate for random number generation, highly validated by common practice.
+  Can't really give the "strong" review, since there are several uses of `copy_nonoverlapping`, which either deserve a comment with a little explanation or can be safely replaced with `copy_from_slice`. Also, noted some suboptimal ergonomic for internal macro, when the type size is passed explicitly and sometimes unchecked.
+  However, it does its work well, and to my opinion is a good (just not excellent) example of what the idiomatic Rust code should be.
+----- SIGN CREV PROOF -----
+JBl8H2aTR6d2qWymE7J1t7zA-TrZKn8LTGZUHEXNZ6m2lXht3gZ5a2mNfK1IAwclU3qcwYAREIdxnjIRNVhOBw
+----- END CREV PROOF -----
+
